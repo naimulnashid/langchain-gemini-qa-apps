@@ -1,0 +1,9 @@
+# Secrets
+.env
+# Local environments and caches
+venv/
+.venv/
+__pycache__/
+# Vector indexes are rebuilt by each app
+faiss_index/
+chroma*/
