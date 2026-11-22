@@ -8,9 +8,18 @@ This repository is a project showcase, not a maintained library.
 
 ## Demo
 
-| [`faq-csv-qa`](faq-csv-qa/) | [`text-to-sql-qa`](text-to-sql-qa/) | [`pdf-qa`](pdf-qa/) |
-|---|---|---|
-| <a href="https://youtu.be/h75u9rPm074"><img src="https://img.youtube.com/vi/h75u9rPm074/maxresdefault.jpg" width="100%" alt="Demo video of the FAQ spreadsheet app answering questions"></a> | <a href="https://youtu.be/XAwvaj48y_Q"><img src="https://img.youtube.com/vi/XAwvaj48y_Q/maxresdefault.jpg" width="100%" alt="Demo video of the text-to-SQL app answering questions about the store database"></a> | <a href="https://youtu.be/pO9Evp1qQKo"><img src="https://img.youtube.com/vi/pO9Evp1qQKo/maxresdefault.jpg" width="100%" alt="Demo video of the PDF app answering questions from uploaded PDFs"></a> |
+<table>
+<tr>
+<th width="33%"><a href="faq-csv-qa/"><code>faq-csv-qa</code></a></th>
+<th width="33%"><a href="text-to-sql-qa/"><code>text-to-sql-qa</code></a></th>
+<th width="33%"><a href="pdf-qa/"><code>pdf-qa</code></a></th>
+</tr>
+<tr>
+<td width="33%"><a href="https://youtu.be/h75u9rPm074"><img src="https://img.youtube.com/vi/h75u9rPm074/maxresdefault.jpg" width="100%" alt="Demo video of the FAQ spreadsheet app answering questions"></a></td>
+<td width="33%"><a href="https://youtu.be/XAwvaj48y_Q"><img src="https://img.youtube.com/vi/XAwvaj48y_Q/maxresdefault.jpg" width="100%" alt="Demo video of the text-to-SQL app answering questions about the store database"></a></td>
+<td width="33%"><a href="https://youtu.be/pO9Evp1qQKo"><img src="https://img.youtube.com/vi/pO9Evp1qQKo/maxresdefault.jpg" width="100%" alt="Demo video of the PDF app answering questions from uploaded PDFs"></a></td>
+</tr>
+</table>
 
 Demo videos on YouTube, recorded July 2024: [FAQ spreadsheet](https://youtu.be/h75u9rPm074), [SQL database](https://youtu.be/XAwvaj48y_Q), [PDF files](https://youtu.be/pO9Evp1qQKo).
 
