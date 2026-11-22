@@ -4,11 +4,15 @@ Three Streamlit apps that answer questions from your own data: an FAQ spreadshee
 
 This repository is a project showcase, not a maintained library.
 
-## Demo
-
 ![Visual abstract: three Streamlit apps (FAQ spreadsheet, MySQL database, PDF documents) feed LangChain, which builds context with FAISS or Chroma and calls Gemini to produce grounded answers, SQL-based answers and answers from the PDFs](assets/visual-abstract.png)
 
-No screenshots yet: running the apps needs a Gemini API key.
+## Demo
+
+| [`faq-csv-qa`](faq-csv-qa/) | [`text-to-sql-qa`](text-to-sql-qa/) | [`pdf-qa`](pdf-qa/) |
+|---|---|---|
+| <a href="https://youtu.be/h75u9rPm074"><img src="https://img.youtube.com/vi/h75u9rPm074/maxresdefault.jpg" width="100%" alt="Demo video of the FAQ spreadsheet app answering questions"></a> | <a href="https://youtu.be/XAwvaj48y_Q"><img src="https://img.youtube.com/vi/XAwvaj48y_Q/maxresdefault.jpg" width="100%" alt="Demo video of the text-to-SQL app answering questions about the store database"></a> | <a href="https://youtu.be/pO9Evp1qQKo"><img src="https://img.youtube.com/vi/pO9Evp1qQKo/maxresdefault.jpg" width="100%" alt="Demo video of the PDF app answering questions from uploaded PDFs"></a> |
+
+Demo videos on YouTube, recorded July 2024: [FAQ spreadsheet](https://youtu.be/h75u9rPm074), [SQL database](https://youtu.be/XAwvaj48y_Q), [PDF files](https://youtu.be/pO9Evp1qQKo).
 
 ## Features
 
